@@ -106,4 +106,4 @@ The system uses a multi-component architecture:
 
 ## Link Video Presentation
 
-Link for Video Presentation: [HERE](https://www.google.com/search?q=va+nguoc+lai+tieng+anh+gi&oq=va+nguoc+lai&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIxODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+Link for Video Presentation: [HERE](https://drive.google.com/drive/folders/18pfgTWAn9M14zKg_Lv9PMhMEazdM8YCM?usp=drive_link)
