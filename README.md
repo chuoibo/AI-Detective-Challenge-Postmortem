@@ -104,3 +104,6 @@ The system uses a multi-component architecture:
 
 5. **Performance Optimizations**: Implement caching for common queries, more efficient API request batching, streaming responses for long-running operations, and progressive UI loading.
 
+## Link Video Presentation
+
+Link for Video Presentation: [HERE](https://www.google.com/search?q=va+nguoc+lai+tieng+anh+gi&oq=va+nguoc+lai&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIKCAUQABiABBiiBDIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiiBBiJBdIBCDIxODVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
