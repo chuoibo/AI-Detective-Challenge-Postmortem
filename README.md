@@ -106,4 +106,4 @@ The system uses a multi-component architecture:
 
 ## Link Video Presentation
 
-Link for Video Presentation: [HERE](https://drive.google.com/drive/folders/18pfgTWAn9M14zKg_Lv9PMhMEazdM8YCM?usp=drive_link)
+Link for Video Presentation: [HERE](https://drive.google.com/file/d/1Z-ALvcU8a4da1gfnz4bTqGCM16PY3L2i/view?usp=sharing)
